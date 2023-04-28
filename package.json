@@ -1,0 +1,23 @@
+{
+  "name": "treino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx live-server src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renansouza09/renandev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renansouza09/renandev/issues"
+  },
+  "homepage": "https://github.com/renansouza09/renandev#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
